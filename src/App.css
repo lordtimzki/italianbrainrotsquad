@@ -5,7 +5,7 @@ body {
 }
 
 .sidebar {
-  height: 100vh;
+  height: auto;
   width: 350px;
   background-color: #f3ba2f;
   overflow-x: hidden;
